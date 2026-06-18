@@ -2,7 +2,8 @@
 
 ## Dashboard Preview
 
-<img width="1920" height="995" alt="HR Dashboard" src="https://github.com/user-attachments/assets/f5ef872c-9748-40f1-9927-fc9090bcddd3" />
+<img width="1920" height="992" alt="HR Dashboard" src="https://github.com/user-attachments/assets/fcc68bf8-9e28-4ffd-a58d-89942bf54890" />
+
 
 
 ## Project Overview
